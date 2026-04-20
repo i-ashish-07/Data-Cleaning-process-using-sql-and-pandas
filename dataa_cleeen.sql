@@ -1,12 +1,12 @@
--- create table dataa
--- (customer_id text,
--- name text,
--- age text,
--- email text,
--- city text,
--- signup_date	text,
--- salary int
--- );
+create table dataa
+(customer_id text,
+name text,
+age text,
+email text,
+city text,
+signup_date	text,
+salary int
+);
 
 
 
